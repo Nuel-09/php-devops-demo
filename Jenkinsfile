@@ -11,7 +11,7 @@ pipeline {
 
         // Full path to your Laragon PHP executable
         // Find it by running: Get-ChildItem C:\laragon\bin\php -Recurse -Filter php.exe
-        PHP_EXE  = "C:\\laragon\\bin\\php\\php-8.3.14-Win32-vs16-x64\\php.exe"
+        PHP_EXE  = "C:\\laragon\\bin\\php\\php-8.3.30-Win32-vs16-x64\\php.exe"
 
         // Full path to your Git executable (confirmed on this machine)
         GIT_EXE  = "C:\\Program Files\\Git\\cmd\\git.exe"
